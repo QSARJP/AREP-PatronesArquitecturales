@@ -95,5 +95,31 @@ nota: Para ver temas de costos asociados a este servicio por favro mirar el sigu
 
 # EC2
 
+Nos dirigimos al servicio EC2 y le damos lanzar una instancia
+
+![](img/EC2/1.png)
+
+Seleccinamos la segunda opcion la cual nos permite lanzar una maquina linux con las especificaciones que veremos acontinuacion
+
+![](img/EC2/2.png)
+
+Seleccinamos la opcion gratuita para este ejemplo pero se puedne ver las demas opciones
+
+![](img/EC2/3.png)
+
+Pasamos luego a lanzar la instancia, pero antes nos pregunta cual es la llave que vmaos a seleccionar, como ya se tenia una llave se seleccina pero si 
+es necesario crear una nueva desde ahi se peude realizar la opcion
+
+![](img/EC2/4.png)
+
+Se debe agregar el security group para esta maquian con el fin de que se puedan encontrar estos servicios
+![](img/EC2/5.png)
+
+Por ultimo, se puede ver en la sigueinte imagen que la maquina ya ha sido creada y la direccion seleccianada es la que se va tener en cuenta cuando se lance la aplicaicon desde ahi 
+![](img/EC2/6.png)
+
+
+
+
 
 
