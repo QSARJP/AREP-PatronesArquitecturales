@@ -3,7 +3,7 @@
 En el siguiente tutorial se encontrará como se crean diferentes servicios en la pltaforma de aws 
 desde el depliegue de paginas estaticas hasta el de una aplicacion web conectada a una base de datos.
 
-Si se desea ver el tutorial en video seleccione el sigueinte link [link-youtube]()
+Si se desea ver el tutorial en video seleccione el sigueinte link [link-youtube](https://youtu.be/aLk4z-pMtY8)
 
 # S3
 Primero abriremos la consola de AWS y seleccioanremos la opcion de S3 en la categoria de storage
